@@ -15,7 +15,7 @@ const NavBar = () => (
         <Nav className="justify-content-end gap-3">
           <Nav.Link>Home</Nav.Link>
           <Nav.Link>About Us</Nav.Link>
-          <Nav.Link>St. Patrick`&apos;s Day</Nav.Link>
+          <Nav.Link>St. Patrick&apos;s Day</Nav.Link>
           <Nav.Link>To Go Ordering</Nav.Link>
           <Nav.Link><Instagram /></Nav.Link>
           <Nav.Link><Facebook /></Nav.Link>
